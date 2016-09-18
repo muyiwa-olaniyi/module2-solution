@@ -17,12 +17,12 @@
   }
   #container{
     background-color: gray;
-    border: 2px solid black;
+    border: 1px solid black;
     margin-right: auto;
     margin-left: auto;
     font-family: Arial; /*Helvetica*/
     width: 90%;
-    height: 200px;
+    height: 33%; /* 250px*/
     overflow: auto;  
     position: relative;
   }
