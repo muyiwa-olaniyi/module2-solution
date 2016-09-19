@@ -17,16 +17,16 @@
   }
   #container{
     background-color: gray;
-    border: 2px solid black;
+    border: 1px solid black;
     margin-right: auto;
     margin-left: auto;
     font-family: Arial; /*Helvetica*/
-    width: 90%;
-    height: 200px;
+    width: 95%;
+    height: 33%; /* 250px*/
     overflow: auto;  
     position: relative;
   }
-  #p1{
+  #title1{
       background-color: #ff9999;
       position: absolute;
       top: 0px;
@@ -41,7 +41,7 @@
       height: 26px; 
       overflow: auto;     
     }
-  #p2{
+  #title2{
       background-color: #ff3333;
       position: absolute;
       top: 0px;
@@ -56,7 +56,7 @@
       height: 26px; 
       overflow: auto;    
     } 
-  #p3{
+  #title3{
       background-color: #ffff99;
       position: absolute;
       top: 0px;
